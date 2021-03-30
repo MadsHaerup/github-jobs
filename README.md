@@ -13,6 +13,6 @@
 - react-bootstrap
 - react-markdown
 
-## Example
+## Preview
 
 ![](example.png)
